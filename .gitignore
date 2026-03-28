@@ -1,0 +1,12 @@
+# Dev files - not needed for deployment
+videos_original/
+videos_cropped/
+videos_compressed/
+auto_crop.py
+crop_params.json
+crop_videos.swift
+.claude/
+
+# macOS
+.DS_Store
+**/.DS_Store
